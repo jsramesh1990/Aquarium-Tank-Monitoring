@@ -1,0 +1,16 @@
+Aquarium-Monitoring-Project/
+├── README.md
+├── Makefile
+├── platformio.ini         # optional (PlatformIO project cfg)
+├── .gitignore
+├── LICENSE
+├── src/
+│   ├── main.cpp
+│   ├── sensors.cpp
+│   └── sensors.h
+├── lib/                   # optional 3rd-party libs or local libs
+├── docs/                  # diagrams, schematics, photos
+│   └── wiring-diagram.png
+└── examples/              # quick examples for specific boards
+    └── esp32_example/
+        └── platformio.ini
