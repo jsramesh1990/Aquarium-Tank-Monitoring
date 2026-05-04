@@ -219,16 +219,3 @@ Aquarium-Tank-Monitoring/
 
 ---
 
-##  License
-
-This project is licensed under the **MIT License**.
-
----
-
-## Ready Description
-
-> Designed a multi-platform aquarium monitoring system using Arduino, ESP32, ESP8266, and STM32, featuring real-time sensor acquisition, ADC calibration, and PlatformIO-based build automation.
-
----
-
-⭐ If you find this project useful, consider giving it a **star** on GitHub!
